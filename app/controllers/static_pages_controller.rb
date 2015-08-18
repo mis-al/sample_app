@@ -7,4 +7,8 @@ class StaticPagesController < ApplicationController
 
   def about
   end
+  
+  def full_title f
+    "fff"
+  end
 end
