@@ -1,4 +1,5 @@
 class SessionsController < ApplicationController
+  include SessionsHelper
   
   def new
   
@@ -24,3 +25,4 @@ class SessionsController < ApplicationController
   end
   
 end
+
