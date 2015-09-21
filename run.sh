@@ -1,1 +1,5 @@
 rails server -b 0.0.0.0 -p 8080
+
+
+# AKIAIAOUYURV46GPX23Q
+# +1NLFpGx5llj1/cjPDZ07LyVgGon9dGU14HD30Le
